@@ -1,0 +1,13 @@
+{
+  "app_name": "BookSmart Document Manager",
+  "version": "0.2.0",
+  "package_type": "desktop",
+  "contains_data": false,
+  "entries": [
+    "BookSmart.exe",
+    "Usetext.txt",
+    "static/",
+    "migrations/",
+    "version.json"
+  ]
+}
