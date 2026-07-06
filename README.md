@@ -103,4 +103,4 @@ release/
 如果浏览器页面无法访问，请重新双击 `BookSmart.exe` 启动。
 
 
-网盘分享的文件：booksmart发布版.zip 链接: https://pan.baidu.com/s/1EztUrwWOgo6kXGaekzzkKw 提取码: begx 复制这段内容后打开百度网盘手机App，操作更方便哦
+网盘分享的文件：booksmart发布版.zip 链接: https://pan.baidu.com/s/16jhoaRDKXt3nk3UhI12DSw 提取码: hueb  复制这段内容后打开百度网盘手机App，操作更方便哦
